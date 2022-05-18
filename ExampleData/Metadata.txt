@@ -1,0 +1,41 @@
+#NAME	Ncode	Species	Age	Gender	Region	Location	gender_region	region_collection
+NB1	K11	M. Destructor	Adults	Female	Doukala	Khmiss Zemamra	female_doukala		Doukala_Safi
+NB2	K12	M. Destructor	Adults	Female	Doukala	Khmiss Zemamra	female_doukala		Doukala_Safi
+NB3	K19	M. Destructor	Adults	Female	Doukala	Khmiss Zemamra	female_doukala		Doukala_Safi
+NB4	K23	M. Destructor	Adults	Female	Doukala	Khmiss Zemamra	female_doukala		Doukala_Safi
+NB5	K25	M. Destructor	Adults	Female	Doukala	Khmiss Zemamra	female_doukala		Doukala_Safi
+NB6	K3	M. Destructor	Adults	Male	Doukala	Khmiss Zemamra	male_doukala		Doukala_Safi
+NB7	K8	M. Destructor	Adults	Male	Doukala	Khmiss Zemamra	male_doukala		Doukala_Safi
+NB8	K20	M. Destructor	Adults	Male	Doukala	Khmiss Zemamra	male_doukala		Doukala_Safi
+NB9	K16	M. Destructor	Adults	Male	Doukala	Khmiss Zemamra	male_doukala		Doukala_Safi
+NB10	K22	M. Destructor	Adults	Male	Doukala	Khmiss Zemamra	male_doukala		Doukala_Safi
+NB11	J1	M. Destructor	Adults	Female	Safi	Jamaat Shaim	female_safi		Doukala_Safi
+NB12	J2	M. Destructor	Adults	Female	Safi	Jamaat Shaim	female_safi		Doukala_Safi
+NB13	J3	M. Destructor	Adults	Female	Safi	Jamaat Shaim	female_safi		Doukala_Safi
+NB14	J5	M. Destructor	Adults	Female	Safi	Jamaat Shaim	female_safi		Doukala_Safi
+NB15	J6	M. Destructor	Adults	Female	Safi	Jamaat Shaim	female_safi		Doukala_Safi
+NB16	J43	M. Destructor	Adults	Male	Safi	Jamaat Shaim	male_safi		Doukala_Safi
+NB17	J47	M. Destructor	Adults	Male	Safi	Jamaat Shaim	male_safi		Doukala_Safi
+NB18	J12	M. Destructor	Adults	Male	Safi	Jamaat Shaim	male_safi		Doukala_Safi
+NB19	J21	M. Destructor	Adults	Male	Safi	Jamaat Shaim	male_safi		Doukala_Safi
+NB20	J14	M. Destructor	Adults	Male	Safi	Jamaat Shaim	male_safi		Doukala_Safi
+NB21	F22	M. Destructor	Adults	Female	Fes	Fes	female_fes		Fes_Chaouia
+NB22	F27	M. Destructor	Adults	Female	Fes	Fes	female_fes		Fes_Chaouia
+NB23	F29	M. Destructor	Adults	Female	Fes	Fes	female_fes		Fes_Chaouia
+NB24	F37	M. Destructor	Adults	Female	Fes	Fes	female_fes		Fes_Chaouia
+NB25	F38	M. Destructor	Adults	Female	Fes	Fes	female_fes		Fes_Chaouia
+NB26	F12	M. Destructor	Adults	Male	Fes	Fes	male_fes		Fes_Chaouia
+NB27	F11	M. Destructor	Adults	Male	Fes	Fes	male_fes		Fes_Chaouia
+NB28	F19	M. Destructor	Adults	Male	Fes	Fes	male_fes		Fes_Chaouia
+NB29	F2	M. Destructor	Adults	Male	Fes	Fes	male_fes		Fes_Chaouia
+NB30	F46	M. Destructor	Adults	Male	Fes	Fes	male_fes		Fes_Chaouia
+NB31	S1	M. Destructor	Adults	Female	Chaouia	Sidi El Aidi	female_chaouia		Fes_Chaouia
+NB32	S2	M. Destructor	Adults	Female	Chaouia	Sidi El Aidi	female_chaouia		Fes_Chaouia
+NB33	S3	M. Destructor	Adults	Female	Chaouia	Sidi El Aidi	female_chaouia		Fes_Chaouia
+NB34	S4	M. Destructor	Adults	Female	Chaouia	Sidi El Aidi	female_chaouia		Fes_Chaouia
+NB35	S8	M. Destructor	Adults	Female	Chaouia	Sidi El Aidi	female_chaouia		Fes_Chaouia
+NB36	S16	M. Destructor	Adults	Male	Chaouia	Sidi El Aidi	male_chaouia		Fes_Chaouia
+NB37	S17	M. Destructor	Adults	Male	Chaouia	Sidi El Aidi	male_chaouia		Fes_Chaouia
+NB38	S33	M. Destructor	Adults	Male	Chaouia	Sidi El Aidi	male_chaouia		Fes_Chaouia
+NB39	S22	M. Destructor	Adults	Male	Chaouia	Sidi El Aidi	male_chaouia		Fes_Chaouia
+NB40	S21	M. Destructor	Adults	Male	Chaouia	Sidi El Aidi	male_chaouia		Fes_Chaouia
