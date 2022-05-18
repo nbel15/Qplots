@@ -1,0 +1,49 @@
+<p style="font-family:time" align="justify"><font size="3">It may occur to work in different worksatation (server) rather than your personnal computer, in this case, you may need to transfer your data from your personnal computer to the server where the analysis will be done. Two ways are available to do this task: using FilleZilla software or using command line.</p>
+
+<h4 id= "fillezilla">Using FilleZilla:</h4>
+<ul style="font-family:time" align="justify">
+		<li>Download and install <a href='https://filezilla-project.org/'><b>Fillezilla client</b></a> (available for all operating systems)</li>
+			<center>
+			<img src="img/1script/fillezilla_down.png"  alt= "Main interface" style="width:90%;height:60%;" />
+			</center>
+        <li><b>FilleZilla interface:</b> </li>
+		   <center>
+			<img src="img/1script/fillezilla_interface.png"  alt= "Main interface" style="width:90%;height:60%;" />
+			</center>
+			  <ol style="font-family:time" align="justify" type='A'>
+				<li>Quick connect bar</li>
+				<li>Connextion status</li>
+				<li>Navigation in local computer folders </li>
+				<li>Navigation in server folders</li>
+				<li>Transfer status </li>
+			  </ol>
+        <li>Connect to the server using SSH protocol</li>
+		    <center>
+			<img src="img/1script/fq_connect.png"  alt= "Main interface" style="width:90%;height:60%;" />
+			</center>
+        <li><b>Upload(Download) files to(from) the server by:</b> </li>
+		      <ul style="font-family:time" align="justify" type='A'>
+				<li>Double-clicking on the file to transfer</li>
+				<li>Right-click on file/folder, Then click on Upload/Download in the popup menu</li>
+				<li>Drag and drop files/folders from local machine to the server (or the inverse) </li>
+				</ul>
+			<center>
+			<img src="img/1script/fq_trans.png"  alt= "Main interface" style="width:90%;height:60%;" />
+			</center>
+      </ul>
+	  <br>
+<h4 id= "unixtounix">Transfer from Unix to Unix server:</h4>
+	<ul style="font-family:time" align="justify" >
+		<li>Open terminal: <kbd>Ctrl + T</kbd></li>
+		<li>Navigate to the directory where there are the files to be transferred, using <code><i>cd</i></code> command</li>
+		<li>Run the command: scp filetotransfer username@serverip:path/to/destination folder (eg. <code>scp data.zip naima@10.10.10.10:Desktop/</code>)</li>
+		<li>Enter account password</li>
+	</ul>
+	<br>
+<h4 id= "wintounix">Transfer from Windows to Unix server:</h4>
+	<ul style="font-family:time" align="justify" >
+		<li>Open command Prompt (cmd.exe)</li>
+		<li>Navigate to the directory where there are the files to be transferred, using <code><i>cd</i></code> command</li>
+		<li>Run the command: scp filetotransfer username@serverip:path/to/destination folder (eg. <code>scp data.zip naima@10.10.10.10:Desktop/</code>)</li>
+		<li>Enter account password</li>
+	</ul>

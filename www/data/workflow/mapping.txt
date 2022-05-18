@@ -1,0 +1,249 @@
+SampleID	species	age	sex	tissue	diet
+E65	pallidipes	Teneral flies	males	testes	Tetracycline/Vanderzant vitamin mixture diet
+E66	pallidipes	Teneral flies	males	testes	Tetracycline/Vanderzant vitamin mixture diet
+E67	pallidipes	Teneral flies	males	guts	Tetracycline/Vanderzant vitamin mixture diet
+E68	pallidipes	Teneral flies	males	guts	Tetracycline/Vanderzant vitamin mixture diet
+E55	gambiensis	Teneral flies	males	testes	Tetracycline/Vanderzant vitamin mixture diet
+E56	gambiensis	Teneral flies	males	testes	Tetracycline/Vanderzant vitamin mixture diet
+E57	gambiensis	Teneral flies	males	testes	Tetracycline/Vanderzant vitamin mixture diet
+E58	gambiensis	Teneral flies	males	guts	Tetracycline/Vanderzant vitamin mixture diet
+E59	gambiensis	Teneral flies	males	guts	Tetracycline/Vanderzant vitamin mixture diet
+E60	gambiensis	Teneral flies	males	guts	Tetracycline/Vanderzant vitamin mixture diet
+E43	morsitans	Teneral flies	males	testes	Tetracycline/Vanderzant vitamin mixture diet
+E44	morsitans	Teneral flies	males	testes	Tetracycline/Vanderzant vitamin mixture diet
+E45	morsitans	Teneral flies	males	testes	Tetracycline/Vanderzant vitamin mixture diet
+E46	morsitans	Teneral flies	males	guts	Tetracycline/Vanderzant vitamin mixture diet
+E47	morsitans	Teneral flies	males	guts	Tetracycline/Vanderzant vitamin mixture diet
+E48	morsitans	Teneral flies	males	guts	Tetracycline/Vanderzant vitamin mixture diet
+E61	pallidipes	Teneral flies	females	ovaries	Tetracycline/Vanderzant vitamin mixture diet
+E62	pallidipes	Teneral flies	females	ovaries	Tetracycline/Vanderzant vitamin mixture diet
+E63	pallidipes	Teneral flies	females	guts	Tetracycline/Vanderzant vitamin mixture diet
+E64	pallidipes	Teneral flies	females	guts	Tetracycline/Vanderzant vitamin mixture diet
+E49	gambiensis	Teneral flies	females	ovaries	Tetracycline/Vanderzant vitamin mixture diet
+E50	gambiensis	Teneral flies	females	ovaries	Tetracycline/Vanderzant vitamin mixture diet
+E51	gambiensis	Teneral flies	females	ovaries	Tetracycline/Vanderzant vitamin mixture diet
+E52	gambiensis	Teneral flies	females	guts	Tetracycline/Vanderzant vitamin mixture diet
+E53	gambiensis	Teneral flies	females	guts	Tetracycline/Vanderzant vitamin mixture diet
+E54	gambiensis	Teneral flies	females	guts	Tetracycline/Vanderzant vitamin mixture diet
+E37	morsitans	Teneral flies	females	ovaries	Tetracycline/Vanderzant vitamin mixture diet
+E38	morsitans	Teneral flies	females	ovaries	Tetracycline/Vanderzant vitamin mixture diet
+E39	morsitans	Teneral flies	females	ovaries	Tetracycline/Vanderzant vitamin mixture diet
+E40	morsitans	Teneral flies	females	guts	Tetracycline/Vanderzant vitamin mixture diet
+E41	morsitans	Teneral flies	females	guts	Tetracycline/Vanderzant vitamin mixture diet
+E42	morsitans	Teneral flies	females	guts	Tetracycline/Vanderzant vitamin mixture diet
+G3	pallidipes	16 days old	males	testes	Vanderzant vitamin mixture diet
+G11	pallidipes	16 days old	males	testes	Vanderzant vitamin mixture diet
+G34	pallidipes	16 days old	males	testes	Vanderzant vitamin mixture diet
+G1	pallidipes	16 days old	males	guts	Vanderzant vitamin mixture diet
+G10	pallidipes	16 days old	males	guts	Vanderzant vitamin mixture diet
+G17	pallidipes	16 days old	males	guts	Vanderzant vitamin mixture diet
+G14	gambiensis	16 days old	males	testes	Vanderzant vitamin mixture diet
+G25	gambiensis	16 days old	males	testes	Vanderzant vitamin mixture diet
+G32	gambiensis	16 days old	males	testes	Vanderzant vitamin mixture diet
+G2	gambiensis	16 days old	males	guts	Vanderzant vitamin mixture diet
+G9	gambiensis	16 days old	males	guts	Vanderzant vitamin mixture diet
+G28	gambiensis	16 days old	males	guts	Vanderzant vitamin mixture diet
+G12	morsitans	16 days old	males	testes	Vanderzant vitamin mixture diet
+G15	morsitans	16 days old	males	testes	Vanderzant vitamin mixture diet
+G16	morsitans	16 days old	males	testes	Vanderzant vitamin mixture diet
+G4	morsitans	16 days old	males	guts	Vanderzant vitamin mixture diet
+G26	morsitans	16 days old	males	guts	Vanderzant vitamin mixture diet
+G31	morsitans	16 days old	males	guts	Vanderzant vitamin mixture diet
+G6	pallidipes	16 days old	females	ovaries	Vanderzant vitamin mixture diet
+G24	pallidipes	16 days old	females	ovaries	Vanderzant vitamin mixture diet
+G30	pallidipes	16 days old	females	ovaries	Vanderzant vitamin mixture diet
+G5	pallidipes	16 days old	females	guts	Vanderzant vitamin mixture diet
+G8	pallidipes	16 days old	females	guts	Vanderzant vitamin mixture diet
+G27	pallidipes	16 days old	females	guts	Vanderzant vitamin mixture diet
+G7	gambiensis	16 days old	females	ovaries	Vanderzant vitamin mixture diet
+G13	gambiensis	16 days old	females	ovaries	Vanderzant vitamin mixture diet
+G21	gambiensis	16 days old	females	ovaries	Vanderzant vitamin mixture diet
+G22	gambiensis	16 days old	females	guts	Vanderzant vitamin mixture diet
+G23	gambiensis	16 days old	females	guts	Vanderzant vitamin mixture diet
+G29	gambiensis	16 days old	females	guts	Vanderzant vitamin mixture diet
+G33	morsitans	16 days old	females	ovaries	Vanderzant vitamin mixture diet
+G38	morsitans	16 days old	females	ovaries	Vanderzant vitamin mixture diet
+G39	morsitans	16 days old	females	ovaries	Vanderzant vitamin mixture diet
+G35	morsitans	16 days old	females	guts	Vanderzant vitamin mixture diet
+G36	morsitans	16 days old	females	guts	Vanderzant vitamin mixture diet
+G37	morsitans	16 days old	females	guts	Vanderzant vitamin mixture diet
+E31	pallidipes	Teneral flies	males	testes	Vanderzant vitamin mixture diet
+E32	pallidipes	Teneral flies	males	testes	Vanderzant vitamin mixture diet
+E33	pallidipes	Teneral flies	males	testes	Vanderzant vitamin mixture diet
+E34	pallidipes	Teneral flies	males	guts	Vanderzant vitamin mixture diet
+E35	pallidipes	Teneral flies	males	guts	Vanderzant vitamin mixture diet
+E36	pallidipes	Teneral flies	males	guts	Vanderzant vitamin mixture diet
+E19	gambiensis	Teneral flies	males	testes	Vanderzant vitamin mixture diet
+E20	gambiensis	Teneral flies	males	testes	Vanderzant vitamin mixture diet
+E21	gambiensis	Teneral flies	males	testes	Vanderzant vitamin mixture diet
+E22	gambiensis	Teneral flies	males	guts	Vanderzant vitamin mixture diet
+E23	gambiensis	Teneral flies	males	guts	Vanderzant vitamin mixture diet
+E24	gambiensis	Teneral flies	males	guts	Vanderzant vitamin mixture diet
+E7	morsitans	Teneral flies	males	testes	Vanderzant vitamin mixture diet
+E8	morsitans	Teneral flies	males	testes	Vanderzant vitamin mixture diet
+E9	morsitans	Teneral flies	males	testes	Vanderzant vitamin mixture diet
+E10	morsitans	Teneral flies	males	guts	Vanderzant vitamin mixture diet
+E11	morsitans	Teneral flies	males	guts	Vanderzant vitamin mixture diet
+E12	morsitans	Teneral flies	males	guts	Vanderzant vitamin mixture diet
+E25	pallidipes	Teneral flies	females	ovaries	Vanderzant vitamin mixture diet
+E26	pallidipes	Teneral flies	females	ovaries	Vanderzant vitamin mixture diet
+E27	pallidipes	Teneral flies	females	ovaries	Vanderzant vitamin mixture diet
+E28	pallidipes	Teneral flies	females	guts	Vanderzant vitamin mixture diet
+E29	pallidipes	Teneral flies	females	guts	Vanderzant vitamin mixture diet
+E30	pallidipes	Teneral flies	females	guts	Vanderzant vitamin mixture diet
+E13	gambiensis	Teneral flies	females	ovaries	Vanderzant vitamin mixture diet
+E14	gambiensis	Teneral flies	females	ovaries	Vanderzant vitamin mixture diet
+E15	gambiensis	Teneral flies	females	ovaries	Vanderzant vitamin mixture diet
+E16	gambiensis	Teneral flies	females	guts	Vanderzant vitamin mixture diet
+E17	gambiensis	Teneral flies	females	guts	Vanderzant vitamin mixture diet
+E18	gambiensis	Teneral flies	females	guts	Vanderzant vitamin mixture diet
+E1	morsitans	Teneral flies	females	ovaries	Vanderzant vitamin mixture diet
+E2	morsitans	Teneral flies	females	ovaries	Vanderzant vitamin mixture diet
+E3	morsitans	Teneral flies	females	ovaries	Vanderzant vitamin mixture diet
+E4	morsitans	Teneral flies	females	guts	Vanderzant vitamin mixture diet
+E5	morsitans	Teneral flies	females	guts	Vanderzant vitamin mixture diet
+E6	morsitans	Teneral flies	females	guts	Vanderzant vitamin mixture diet
+F1	pallidipes	16 days old	males	testes	B vitamins diet
+F2	pallidipes	16 days old	males	testes	B vitamins diet
+F3	pallidipes	16 days old	males	testes	B vitamins diet
+F4	pallidipes	16 days old	males	guts	B vitamins diet
+F5	pallidipes	16 days old	males	guts	B vitamins diet
+F6	pallidipes	16 days old	males	guts	B vitamins diet
+F13	gambiensis	16 days old	males	testes	B vitamins diet
+F14	gambiensis	16 days old	males	testes	B vitamins diet
+F15	gambiensis	16 days old	males	testes	B vitamins diet
+F16	gambiensis	16 days old	males	guts	B vitamins diet
+F17	gambiensis	16 days old	males	guts	B vitamins diet
+F18	gambiensis	16 days old	males	guts	B vitamins diet
+F25	morsitans	16 days old	males	testes	B vitamins diet
+F26	morsitans	16 days old	males	testes	B vitamins diet
+F27	morsitans	16 days old	males	testes	B vitamins diet
+F28	morsitans	16 days old	males	guts	B vitamins diet
+F29	morsitans	16 days old	males	guts	B vitamins diet
+F30	morsitans	16 days old	males	guts	B vitamins diet
+F7	pallidipes	16 days old	females	ovaries	B vitamins diet
+F8	pallidipes	16 days old	females	ovaries	B vitamins diet
+F9	pallidipes	16 days old	females	ovaries	B vitamins diet
+F10	pallidipes	16 days old	females	guts	B vitamins diet
+F11	pallidipes	16 days old	females	guts	B vitamins diet
+F12	pallidipes	16 days old	females	guts	B vitamins diet
+F19	gambiensis	16 days old	females	ovaries	B vitamins diet
+F20	gambiensis	16 days old	females	ovaries	B vitamins diet
+F21	gambiensis	16 days old	females	ovaries	B vitamins diet
+F22	gambiensis	16 days old	females	guts	B vitamins diet
+F23	gambiensis	16 days old	females	guts	B vitamins diet
+F24	gambiensis	16 days old	females	guts	B vitamins diet
+F31	morsitans	16 days old	females	ovaries	B vitamins diet
+F32	morsitans	16 days old	females	ovaries	B vitamins diet
+F33	morsitans	16 days old	females	ovaries	B vitamins diet
+F34	morsitans	16 days old	females	guts	B vitamins diet
+F35	morsitans	16 days old	females	guts	B vitamins diet
+F36	morsitans	16 days old	females	guts	B vitamins diet
+C40	pallidipes	Teneral flies	males	testes	B vitamins diet
+C41	pallidipes	Teneral flies	males	testes	B vitamins diet
+C42	pallidipes	Teneral flies	males	testes	B vitamins diet
+C35	pallidipes	Teneral flies	males	guts	B vitamins diet
+C36	pallidipes	Teneral flies	males	guts	B vitamins diet
+C34	pallidipes	Teneral flies	males	guts	B vitamins diet
+C52	gambiensis	Teneral flies	males	testes	B vitamins diet
+C53	gambiensis	Teneral flies	males	testes	B vitamins diet
+C54	gambiensis	Teneral flies	males	testes	B vitamins diet
+C49	gambiensis	Teneral flies	males	guts	B vitamins diet
+C50	gambiensis	Teneral flies	males	guts	B vitamins diet
+C51	gambiensis	Teneral flies	males	guts	B vitamins diet
+C64	morsitans	Teneral flies	males	testes	B vitamins diet
+C65	morsitans	Teneral flies	males	testes	B vitamins diet
+C66	morsitans	Teneral flies	males	testes	B vitamins diet
+C61	morsitans	Teneral flies	males	guts	B vitamins diet
+C62	morsitans	Teneral flies	males	guts	B vitamins diet
+C63	morsitans	Teneral flies	males	guts	B vitamins diet
+C46	pallidipes	Teneral flies	females	ovaries	B vitamins diet
+C47	pallidipes	Teneral flies	females	ovaries	B vitamins diet
+C48	pallidipes	Teneral flies	females	ovaries	B vitamins diet
+C43	pallidipes	Teneral flies	females	guts	B vitamins diet
+C44	pallidipes	Teneral flies	females	guts	B vitamins diet
+C45	pallidipes	Teneral flies	females	guts	B vitamins diet
+C58	gambiensis	Teneral flies	females	ovaries	B vitamins diet
+C59	gambiensis	Teneral flies	females	ovaries	B vitamins diet
+C60	gambiensis	Teneral flies	females	ovaries	B vitamins diet
+C55	gambiensis	Teneral flies	females	guts	B vitamins diet
+C56	gambiensis	Teneral flies	females	guts	B vitamins diet
+C57	gambiensis	Teneral flies	females	guts	B vitamins diet
+C70	morsitans	Teneral flies	females	ovaries	B vitamins diet
+C71	morsitans	Teneral flies	females	ovaries	B vitamins diet
+C72	morsitans	Teneral flies	females	ovaries	B vitamins diet
+C67	morsitans	Teneral flies	females	guts	B vitamins diet
+C68	morsitans	Teneral flies	females	guts	B vitamins diet
+C69	morsitans	Teneral flies	females	guts	B vitamins diet
+I1	pallidipes	16 days old	males	testes	Tetracycline/B vitamins diet
+I2	pallidipes	16 days old	males	testes	Tetracycline/B vitamins diet
+I8	pallidipes	16 days old	males	testes	Tetracycline/B vitamins diet
+I3	pallidipes	16 days old	males	guts	Tetracycline/B vitamins diet
+I7	pallidipes	16 days old	males	guts	Tetracycline/B vitamins diet
+I9	pallidipes	16 days old	males	guts	Tetracycline/B vitamins diet
+I13	gambiensis	16 days old	males	testes	Tetracycline/B vitamins diet
+I14	gambiensis	16 days old	males	testes	Tetracycline/B vitamins diet
+I15	gambiensis	16 days old	males	testes	Tetracycline/B vitamins diet
+I19	gambiensis	16 days old	males	guts	Tetracycline/B vitamins diet
+I20	gambiensis	16 days old	males	guts	Tetracycline/B vitamins diet
+I21	gambiensis	16 days old	males	guts	Tetracycline/B vitamins diet
+I25	morsitans	16 days old	males	testes	Tetracycline/B vitamins diet
+I26	morsitans	16 days old	males	testes	Tetracycline/B vitamins diet
+I27	morsitans	16 days old	males	testes	Tetracycline/B vitamins diet
+I28	morsitans	16 days old	males	guts	Tetracycline/B vitamins diet
+I29	morsitans	16 days old	males	guts	Tetracycline/B vitamins diet
+I30	morsitans	16 days old	males	guts	Tetracycline/B vitamins diet
+I4	pallidipes	16 days old	females	ovaries	Tetracycline/B vitamins diet
+I5	pallidipes	16 days old	females	ovaries	Tetracycline/B vitamins diet
+I6	pallidipes	16 days old	females	ovaries	Tetracycline/B vitamins diet
+I10	pallidipes	16 days old	females	guts	Tetracycline/B vitamins diet
+I11	pallidipes	16 days old	females	guts	Tetracycline/B vitamins diet
+I12	pallidipes	16 days old	females	guts	Tetracycline/B vitamins diet
+I16	gambiensis	16 days old	females	ovaries	Tetracycline/B vitamins diet
+I17	gambiensis	16 days old	females	ovaries	Tetracycline/B vitamins diet
+I18	gambiensis	16 days old	females	ovaries	Tetracycline/B vitamins diet
+I22	gambiensis	16 days old	females	guts	Tetracycline/B vitamins diet
+I23	gambiensis	16 days old	females	guts	Tetracycline/B vitamins diet
+I24	gambiensis	16 days old	females	guts	Tetracycline/B vitamins diet
+I31	morsitans	16 days old	females	ovaries	Tetracycline/B vitamins diet
+I32	morsitans	16 days old	females	ovaries	Tetracycline/B vitamins diet
+I33	morsitans	16 days old	females	ovaries	Tetracycline/B vitamins diet
+I34	morsitans	16 days old	females	guts	Tetracycline/B vitamins diet
+I35	morsitans	16 days old	females	guts	Tetracycline/B vitamins diet
+I36	morsitans	16 days old	females	guts	Tetracycline/B vitamins diet
+C13	pallidipes	Teneral flies	males	testes	Tetracycline/B vitamins diet
+C14	pallidipes	Teneral flies	males	testes	Tetracycline/B vitamins diet
+C15	pallidipes	Teneral flies	males	testes	Tetracycline/B vitamins diet
+C4	pallidipes	Teneral flies	males	guts	Tetracycline/B vitamins diet
+C5	pallidipes	Teneral flies	males	guts	Tetracycline/B vitamins diet
+C6	pallidipes	Teneral flies	males	guts	Tetracycline/B vitamins diet
+C19	gambiensis	Teneral flies	males	testes	Tetracycline/B vitamins diet
+C20	gambiensis	Teneral flies	males	testes	Tetracycline/B vitamins diet
+C21	gambiensis	Teneral flies	males	testes	Tetracycline/B vitamins diet
+C7	gambiensis	Teneral flies	males	guts	Tetracycline/B vitamins diet
+C8	gambiensis	Teneral flies	males	guts	Tetracycline/B vitamins diet
+C9	gambiensis	Teneral flies	males	guts	Tetracycline/B vitamins diet
+C28	morsitans	Teneral flies	males	testes	Tetracycline/B vitamins diet
+C29	morsitans	Teneral flies	males	testes	Tetracycline/B vitamins diet
+C30	morsitans	Teneral flies	males	testes	Tetracycline/B vitamins diet
+C22	morsitans	Teneral flies	males	guts	Tetracycline/B vitamins diet
+C23	morsitans	Teneral flies	males	guts	Tetracycline/B vitamins diet
+C24	morsitans	Teneral flies	males	guts	Tetracycline/B vitamins diet
+C1	pallidipes	Teneral flies	females	ovaries	Tetracycline/B vitamins diet
+C2	pallidipes	Teneral flies	females	ovaries	Tetracycline/B vitamins diet
+C3	pallidipes	Teneral flies	females	ovaries	Tetracycline/B vitamins diet
+C10	pallidipes	Teneral flies	females	guts	Tetracycline/B vitamins diet
+C11	pallidipes	Teneral flies	females	guts	Tetracycline/B vitamins diet
+C12	pallidipes	Teneral flies	females	guts	Tetracycline/B vitamins diet
+C25	gambiensis	Teneral flies	females	ovaries	Tetracycline/B vitamins diet
+C26	gambiensis	Teneral flies	females	ovaries	Tetracycline/B vitamins diet
+C27	gambiensis	Teneral flies	females	ovaries	Tetracycline/B vitamins diet
+C16	gambiensis	Teneral flies	females	guts	Tetracycline/B vitamins diet
+C17	gambiensis	Teneral flies	females	guts	Tetracycline/B vitamins diet
+C18	gambiensis	Teneral flies	females	guts	Tetracycline/B vitamins diet
+C37	morsitans	Teneral flies	females	ovaries	Tetracycline/B vitamins diet
+C38	morsitans	Teneral flies	females	ovaries	Tetracycline/B vitamins diet
+C39	morsitans	Teneral flies	females	ovaries	Tetracycline/B vitamins diet
+C31	morsitans	Teneral flies	females	guts	Tetracycline/B vitamins diet
+C32	morsitans	Teneral flies	females	guts	Tetracycline/B vitamins diet
+C33	morsitans	Teneral flies	females	guts	Tetracycline/B vitamins diet

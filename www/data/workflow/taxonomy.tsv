@@ -1,0 +1,32 @@
+Feature ID	Taxon	Confidence
+Otu44	D_0__Bacteria;D_1__Proteobacteria;D_2__Gammaproteobacteria;D_3__Enterobacteriales;D_4__Enterobacteriaceae;D_5__Citrobacter;D_6__Citrobacter werkmanii;D_7__;D_8__;D_9__;D_10__;D_11__;D_12__;D_13__;D_14__	1.0
+Otu2	D_0__Bacteria;D_1__Bacteroidetes;D_2__Bacteroidia;D_3__Flavobacteriales;D_4__Weeksellaceae;D_5__Empedobacter;Ambiguous_taxa;D_7__;D_8__;D_9__;D_10__;D_11__;D_12__;D_13__;D_14__	1.0
+Otu24	D_0__Bacteria;D_1__Proteobacteria;D_2__Alphaproteobacteria;D_3__Sphingomonadales;D_4__Sphingomonadaceae;D_5__DSSF69;Ambiguous_taxa;D_7__;D_8__;D_9__;D_10__;D_11__;D_12__;D_13__;D_14__	1.0
+Otu7	D_0__Bacteria;D_1__Proteobacteria;D_2__Gammaproteobacteria;D_3__Pseudomonadales;D_4__Moraxellaceae;D_5__Acinetobacter;D_6__uncultured bacterium;D_7__;D_8__;D_9__;D_10__;D_11__;D_12__;D_13__;D_14__	1.0
+Otu10	D_0__Bacteria;D_1__Proteobacteria;D_2__Gammaproteobacteria;D_3__Betaproteobacteriales;D_4__Burkholderiaceae;D_5__Comamonas;D_6__uncultured bacterium;D_7__;D_8__;D_9__;D_10__;D_11__;D_12__;D_13__;D_14__	1.0
+Otu21	D_0__Bacteria;D_1__Proteobacteria;D_2__Alphaproteobacteria;D_3__Sphingomonadales;D_4__Sphingomonadaceae;D_5__Sphingomonas;D_6__uncultured Sphingomonas sp.;D_7__;D_8__;D_9__;D_10__;D_11__;D_12__;D_13__;D_14__	1.0
+Otu33	D_0__Bacteria;D_1__Proteobacteria;D_2__Gammaproteobacteria;D_3__Betaproteobacteriales;D_4__Burkholderiaceae;D_5__Delftia;D_6__uncultured Delftia sp.;D_7__;D_8__;D_9__;D_10__;D_11__;D_12__;D_13__;D_14__	1.0
+Otu14	D_0__Bacteria;D_1__Bacteroidetes;D_2__Bacteroidia;D_3__Bacteroidales;D_4__Dysgonomonadaceae;D_5__Dysgonomonas;D_6__uncultured bacterium;D_7__;D_8__;D_9__;D_10__;D_11__;D_12__;D_13__;D_14__	1.0
+Otu22	D_0__Bacteria;D_1__Proteobacteria;D_2__Gammaproteobacteria;D_3__Betaproteobacteriales;D_4__Burkholderiaceae;D_5__Cupriavidus;D_6__Cupriavidus sp. SWC1;D_7__;D_8__;D_9__;D_10__;D_11__;D_12__;D_13__;D_14__	1.0
+Otu209	D_0__Bacteria;D_1__Proteobacteria;D_2__Gammaproteobacteria;D_3__Enterobacteriales;D_4__Enterobacteriaceae;D_5__Pantoea;D_6__Pantoea eucrina;D_7__;D_8__;D_9__;D_10__;D_11__;D_12__;D_13__;D_14__	1.0
+Otu25	D_0__Bacteria;D_1__Proteobacteria;D_2__Gammaproteobacteria;D_3__Orbales;D_4__Orbaceae;D_5__Orbus;Ambiguous_taxa;D_7__;D_8__;D_9__;D_10__;D_11__;D_12__;D_13__;D_14__	1.0
+Otu4	D_0__Bacteria;D_1__Proteobacteria;D_2__Gammaproteobacteria;D_3__Enterobacteriales;D_4__Enterobacteriaceae;D_5__Wigglesworthia;D_6__Wigglesworthia glossinidia endosymbiont of Glossina morsitans morsitans;D_7__;D_8__;D_9__;D_10__;D_11__;D_12__;D_13__;D_14__	1.0
+Otu11	D_0__Bacteria;D_1__Proteobacteria;D_2__Gammaproteobacteria;D_3__Enterobacteriales;D_4__Enterobacteriaceae;D_5__Wigglesworthia;D_6__Wigglesworthia glossinidia endosymbiont of Glossina morsitans morsitans;D_7__;D_8__;D_9__;D_10__;D_11__;D_12__;D_13__;D_14__	1.0
+Otu18	D_0__Bacteria;D_1__Firmicutes;D_2__Bacilli;D_3__Bacillales;D_4__Bacillaceae;D_5__Geobacillus;D_6__Geobacillus stearothermophilus;D_7__;D_8__;D_9__;D_10__;D_11__;D_12__;D_13__;D_14__	1.0
+Otu13	D_0__Bacteria;D_1__Firmicutes;D_2__Bacilli;D_3__Bacillales;D_4__Bacillaceae;D_5__Bacillus;D_6__Bacillus thuringiensis;D_7__;D_8__;D_9__;D_10__;D_11__;D_12__;D_13__;D_14__	1.0
+Otu9	D_0__Bacteria;D_1__Proteobacteria;D_2__Gammaproteobacteria;D_3__Pseudomonadales;D_4__Moraxellaceae;D_5__Acinetobacter;D_6__bacterium 28S532;D_7__;D_8__;D_9__;D_10__;D_11__;D_12__;D_13__;D_14__	1.0
+Otu34	D_0__Bacteria;D_1__Proteobacteria;D_2__Gammaproteobacteria;D_3__Pseudomonadales;D_4__Moraxellaceae;D_5__Acinetobacter;D_6__uncultured marine bacterium;D_7__;D_8__;D_9__;D_10__;D_11__;D_12__;D_13__;D_14__	1.0
+Otu5	D_0__Bacteria;D_1__Proteobacteria;D_2__Gammaproteobacteria;D_3__Legionellales;D_4__Legionellaceae;D_5__Legionella;D_6__uncultured bacterium;D_7__;D_8__;D_9__;D_10__;D_11__;D_12__;D_13__;D_14__	1.0
+Otu36	D_0__Bacteria;D_1__Proteobacteria;D_2__Gammaproteobacteria;D_3__Pseudomonadales;D_4__Pseudomonadaceae;D_5__Pseudomonas;D_6__Pseudomonas sp. ljh-30;D_7__;D_8__;D_9__;D_10__;D_11__;D_12__;D_13__;D_14__	1.0
+Otu12	D_0__Bacteria;D_1__Firmicutes;D_2__Bacilli;D_3__Bacillales;D_4__Paenibacillaceae;D_5__Paenibacillus;Ambiguous_taxa;D_7__;D_8__;D_9__;D_10__;D_11__;D_12__;D_13__;D_14__	1.0
+Otu173	D_0__Bacteria;D_1__Proteobacteria;D_2__Gammaproteobacteria;D_3__Enterobacteriales;D_4__Enterobacteriaceae;Ambiguous_taxa;Ambiguous_taxa;D_7__;D_8__;D_9__;D_10__;D_11__;D_12__;D_13__;D_14__	1.0
+Otu1	D_0__Bacteria;D_1__Proteobacteria;D_2__Gammaproteobacteria;D_3__Enterobacteriales;D_4__Enterobacteriaceae;D_5__Sodalis;Ambiguous_taxa;D_7__;D_8__;D_9__;D_10__;D_11__;D_12__;D_13__;D_14__	1.0
+Otu3	D_0__Bacteria;D_1__Proteobacteria;D_2__Alphaproteobacteria;D_3__Caulobacterales;D_4__Caulobacteraceae;D_5__Brevundimonas;Ambiguous_taxa;D_7__;D_8__;D_9__;D_10__;D_11__;D_12__;D_13__;D_14__	1.0
+Otu17	D_0__Bacteria;D_1__Proteobacteria;D_2__Gammaproteobacteria;D_3__Enterobacteriales;D_4__Enterobacteriaceae;D_5__Wigglesworthia;D_6__Wigglesworthia glossinidia endosymbiont of Glossina morsitans morsitans;D_7__;D_8__;D_9__;D_10__;D_11__;D_12__;D_13__;D_14__	1.0
+Otu721	D_0__Bacteria;D_1__Proteobacteria;D_2__Alphaproteobacteria;D_3__Rickettsiales;D_4__Anaplasmataceae;D_5__Wolbachia;D_6__uncultured alpha proteobacterium;D_7__;D_8__;D_9__;D_10__;D_11__;D_12__;D_13__;D_14__	1.0
+Otu6	D_0__Bacteria;D_1__Proteobacteria;D_2__Alphaproteobacteria;D_3__Rickettsiales;D_4__Anaplasmataceae;D_5__Wolbachia;D_6__uncultured alpha proteobacterium;D_7__;D_8__;D_9__;D_10__;D_11__;D_12__;D_13__;D_14__	1.0
+Otu16	D_0__Bacteria;D_1__Proteobacteria;D_2__Gammaproteobacteria;D_3__Enterobacteriales;D_4__Enterobacteriaceae;D_5__Enterobacter;D_6__Enterobacter sp. BAB-1513;D_7__;D_8__;D_9__;D_10__;D_11__;D_12__;D_13__;D_14__	1.0
+Otu532	D_0__Bacteria;D_1__Proteobacteria;D_2__Alphaproteobacteria;D_3__Rickettsiales;D_4__Anaplasmataceae;D_5__Wolbachia;D_6__uncultured alpha proteobacterium;D_7__;D_8__;D_9__;D_10__;D_11__;D_12__;D_13__;D_14__	1.0
+Otu15	D_0__Bacteria;D_1__Actinobacteria;D_2__Actinobacteria;D_3__Streptomycetales;D_4__Streptomycetaceae;D_5__Streptomyces;D_6__Streptomyces rochei;D_7__;D_8__;D_9__;D_10__;D_11__;D_12__;D_13__;D_14__	1.0
+Otu8	D_0__Bacteria;D_1__Proteobacteria;D_2__Gammaproteobacteria;D_3__Xanthomonadales;D_4__Xanthomonadaceae;D_5__Stenotrophomonas;Ambiguous_taxa;D_7__;D_8__;D_9__;D_10__;D_11__;D_12__;D_13__;D_14__	1.0
+Otu30	D_0__Bacteria;D_1__Firmicutes;D_2__Bacilli;D_3__Bacillales;D_4__Paenibacillaceae;D_5__Brevibacillus;Ambiguous_taxa;D_7__;D_8__;D_9__;D_10__;D_11__;D_12__;D_13__;D_14__	1.0

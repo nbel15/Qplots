@@ -1,0 +1,13 @@
+
+      <p style="font-family:time" align="justify"><font size="3">Oplots provide a tipical workflow for analysis of microbiome data. Whitch contains the following steps: </p>
+      <ul style="font-family:time" align="justify">
+        <li><b>Import Data:</b> Determine the dataset to use as the starting point of the analysis. </li>
+        <li><b>Relative Abundance:</b> Calculate relative abundance matrix and produce abundance bar chart for different taxonomy levels according to given categories. </li>
+        <li><b>Alpha Diversity:</b> Calculate alpha diversity indices among samples and visualize indices in Boxplots with significance groups. </li>
+        <li><b>Beta Diversity:</b> Calculate the beta-diversity between samples and visualize groupings of samples according to given categories. </li>
+		<li><b>Serial Group Comparison:</b> Calculate non-parametric ANOVA (Kruskal-Wallis Rank Sum Test) and Fisher tests across non-paired input numerical variables over selected categorical variables.</li>
+		<li><b>Network Input:</b> Generate OTU table with taxonomy for Co-occurence analysis in Cytoscape.</li>
+      </ul>
+	  
+	  <p style="font-family:time" align="justify"><font size="3">The analysis of the raw data could be done using a <a href="https://en.wikipedia.org/wiki/Shell_script">shell script</a> (Check FASTQ Analysis section for more details). this script use <a href="https://drive5.com/usearch/">Usearch11</a> to generate the OTU table, and <a href="https://qiime2.org/">Qiime2</a> (version 2019-1) to asign taxonomy based on <a href="https://www.arb-silva.de/">SILVA</a>/<a href="https://unite.ut.ee/repository.php">UNITE</a> database and generate the midpoint tree.</p>
+	  <p style="font-family:time" align="justify"><font size="3">To use the script for a large dataset please contact:<a href="mailto:gtsiamis@upatras.gr?Subject=Microbiome%20Analysis%20Script" target="_top">gtsiamis@upatras.gr</a></p>

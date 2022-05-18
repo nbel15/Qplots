@@ -1,0 +1,38 @@
+
+      <p style="font-family:time" align="justify"><font size="3"> One-script is a Unix shell script allows to analyse microbial communities obtained from next generation sequencing of 16S ribosomal RNA (16S rRNA) and internal transcribed spacer (ITS). It is based on <a href="https://www.drive5.com/usearch/">USEARCH-11</a> and <a href="https://qiime2.org/">Qiime2</a> tools.</p>
+      <p style="font-family:time" align="justify"><font size="3"> This script produce mainly OTU table, Assigned taxonomy and phylogentic tree needed for downstream analysis in Qplots pipeline using <a href="https://en.wikipedia.org/wiki/FASTQ_format">Fastq files</a> as an input. the Figure bellow shows an overview of the general process. </p>
+	  <p> 
+      <center>
+      <img src="img/1script/one-script2.png"  alt= "Main interface" style="width:90%;height:60%;" />
+	  <figcaption>Fig.1 - Microbial analysis overview</figcaption>
+      </center>
+	  
+	  <h4 id= "find_script">Find scripts:</h4>
+	  <ul>
+		<li>For 16S rRNA data: <a href="data/workflow/script-16S.sh">script-16S.sh</a></li>
+		<li>For ITS data: <a href="data/workflow/script-ITS.sh">script-ITS.sh</a></li>
+
+	  </ul>
+	  
+	  <h4 id= "fq_steps">Analysis Steps:</h4>
+	  <ul style="font-family:time" align="justify">
+	  <b>1. Assembly:</b> Assemble (merge) paired-end reads to create consensus sequences.</br>
+	  <b>2. Filter sequences:</b> Filter reads in FASTQ file based on expected errors number (e.e) (discard reads if e.e > 1%, and convert to FASTA format).</br>
+      <b>3. Find uniques:</b> Find the set of unique sequences in the filtered FASTA file.</br>
+	  <b>4. Cluster OTUs:</b> Cluster OTU sequences at 97% using the UPARSE-OTU algorithm and discards singleton unique sequences.</br>
+      <b>5. OTU table:</b> Generate OTU table.</br>
+      <b>6. Normalize OTU table:</b> Normalize all samples to the same number of reads to remove the effect of differential sampling size (based on normalization value parameter (default: 50000)).</br>
+      <b>7. Uncross:</b> Identify and filter cross-talk in an OTU table (<a href="https://www.biorxiv.org/content/10.1101/088666v1">cross-talk </a> error occurs when a read is assigned to an incorrect sample).</br>
+      <b>8. Trim OTU table:</b> Remove low-abundance counts, samples and OTUs from an OTU table based on OTUs trim threshold parameter (Minimum size for an OTU as fraction of all OTUs (default: 0.001)).</br>
+      <b>9. Grep:</b> Extract trimmed OTU sequences by matching sequence labels.</br>
+      <b>10. Import OTUs to Qiime2:</b> Import trimmed OTU sequences to QIIME2.</br>
+      <b>11. Assign taxa:</b> Assign taxonomy to query sequences using BLAST+ based on SILVA (16S) or UNITE (ITS) database and percent identity parameter (Reject match if percent identity to query is lower (default: 0.97)).</br>
+      <b>12. Align Sequences:</b> Perform de novo multiple sequence alignment using MAFFT.</br>
+      <b>13. Phylogeny tree:</b> Construct a phylogenetic tree with FastTree.</br>
+      <b>14. Midpoint tree:</b> Midpoint root an unrooted phylogenetic tree.</br>
+	  </ul>
+	  <center>
+      <img src="img/1script/one-script3.png"  alt= "Main interface" style="width:70%;height:80%;" />
+	  <figcaption>Fig.2 - One-script analysis steps</figcaption>
+      </center>
+	</p>

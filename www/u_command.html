@@ -1,0 +1,23 @@
+<h4 id= "s_commands">Script commands:</h4>
+<ul style="font-family:time" align="justify">
+		<li><b>Open terminal:</b> <kbd>Ctrl + T</kbd></li>
+        <li><b>Change permission:</b> chmod +x path/to/script/scriptname.sh (eg. <code>chmod +x Desktop/script-ITS.sh</code>)</li>
+        <li><b>Run:</b> <code>./script-ITS.sh</code></li>
+        <li><b>Modify script from command line:</b> nano path/to/script/scriptname.sh (eg. <code>nano Desktop/script-ITS.sh</code>)</li>
+		<li><b>Save modifications:</b> <kbd>Ctrl + X</kbd> --> yes --> Enter</li>
+      </ul>
+	  
+<h4 id= "qiime_commands">Qiime2 commands:</h4>
+<ul style="font-family:time" align="justify">
+        <li><b>Activate qiime2:</b> <code>source activate qiime2-2019.1</code> (Select the appropriate qiime environment from conda list (<code>conda info --envs</code>))</li>
+        <li><b>Import reference sequences:</b> <code>qiime tools import --input-path path/to/ref/seq99.fasta --output-path seq99.qza --type 'FeatureData[Sequence]'</code> </li>
+        <li><b>Import taxonomy file:</b> <code>qiime tools import --input-path path/to/taxa/taxa99.txt --output-path taxa99.qza --type FeatureData[Taxonomy] --input-format HeaderlessTSVTaxonomyFormat</code></li>
+        </ul>
+		
+<h4 id= "prep-fq">Prepare FASTQ files:</h4>
+<p style="font-family:time" align="justify"><font size="3">Paired-end amplicon sequencing provide two FASTQ files for each sample, usually these files are compressed in .gz and .zip format.  </p>
+<ul style="font-family:time" align="justify">
+        <li><b>To uncompress .zip format:</b> <code>unzip path/to/file/filename.zip</code>. This command create a new folder contains the compressed FASTQ files</li>
+        <li><b>To uncompress all the FASTQ file in a folder:</b> <code>gunzip path/to/new/folder/*.gz</code> (<i>*.gz:</i> refer to all the files with .gz fomart)  </li>
+        <li><b>Rename FASTQ folder:</b> <code>mv path/to/old/folder/old_name path/to/new/folder/fq</code> (eg. <code>mv Desktop/Glossinafastq Desktop/fq</code>)</li>
+        </ul>
