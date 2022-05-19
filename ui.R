@@ -62,8 +62,9 @@ dashboardPage(
       menuItem("Guide", tabName = "guide", icon = icon("book-reader")),
       menuItem("Import Data", tabName = "import_data", icon = icon("file-import")),
       menuItem("Beta diversity", tabName = "beta_div_tab", icon = icon("ruler-combined"),
-               menuSubItem("Graphs", tabName = "beta_div_graph"),
-               menuSubItem("Statistical Analysis", tabName = "beta_div_stat")),
+               menuSubItem("Graphs", tabName = "beta_div_graph")
+               #menuSubItem("Statistical Analysis", tabName = "beta_div_stat")
+               ),
       menuItem("Alpha diversity", tabName = "alpha_tab", icon = icon("project-diagram")),
       menuItem("Relative Abundance", tabName = "rb_tab", icon = icon("poll")),
       menuItem("Core microbiome", tabName = "core_tab", icon = icon("linode"))
